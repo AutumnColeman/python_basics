@@ -1,3 +1,4 @@
+#Given a string, print the string reversed.
 string = raw_input("Give me a string: ")
 #print string[::-1] easy way with slice
 output = ""
